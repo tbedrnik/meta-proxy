@@ -1,0 +1,16 @@
+{
+  "name": "meta-proxy",
+  "version": "1.0.0",
+  "description": "Custom link meta tags proxy for FB Verified Domain Link Edit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tomas Bedrnik <tomas.bedrnik@socialbakers.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
